@@ -1,9 +1,9 @@
 version: "3.8"
 
 services:
-  postgresql:
+  operacional:
     image: postgres
-    container_name: postgresql
+    container_name: operacional
     restart: on-failure
     ports:
       - 5432:5432
@@ -12,5 +12,4 @@ services:
       - POSTGRES_PASSWORD=123456
       - POSTGRES_DB=operacional
     volumes:
-      - ./init_db/:/docker-entrypoint-initdb.d/
-
+      - ./initdb/:/docker-entrypoint-initdb.d/

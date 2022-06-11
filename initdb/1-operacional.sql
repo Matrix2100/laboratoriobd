@@ -19182,706 +19182,706 @@ VALUES(108606, 'SALVADOR FELIPE SANTOS - TESTE', '2009-02-14', 13, 'S');
 
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 139504, 4457, 8.00, 14, 'A');
+VALUES(20111, 139504, 4457, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 136655, 5493, 9.00, 14, 'A');
+VALUES(20111, 136655, 5493, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 127658, 4781, 3.00, 14, 'R');
+VALUES(20111, 127658, 4781, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 105396, 2777, 2.00, 14, 'R');
+VALUES(20111, 105396, 2777, 2.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 147957, 5111, 10.00, 14, 'A');
+VALUES(20111, 147957, 5111, 10.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 105187, 3824, 4.00, 14, 'R');
+VALUES(20111, 105187, 3824, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 139492, 4457, 9.00, 14, 'A');
+VALUES(20111, 139492, 4457, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 133398, 5495, 7.00, 14, 'A');
+VALUES(20111, 133398, 5495, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 125221, 4703, 5.00, 14, 'R');
+VALUES(20111, 125221, 4703, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 133145, 5492, 7.00, 14, 'A');
+VALUES(20111, 133145, 5492, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 93012, 3835, 7.00, 14, 'A');
+VALUES(20111, 93012, 3835, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 139474, 5472, 9.00, 14, 'A');
+VALUES(20111, 139474, 5472, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 105182, 6236, 2.00, 14, 'R');
+VALUES(20111, 105182, 6236, 2.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 71221, 3835, 10.00, 14, 'A');
+VALUES(20111, 71221, 3835, 10.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 71231, 3833, 9.00, 14, 'A');
+VALUES(20111, 71231, 3833, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 105119, 4611, 2.00, 14, 'R');
+VALUES(20111, 105119, 4611, 2.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 113876, 3865, 5.00, 14, 'R');
+VALUES(20111, 113876, 3865, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 71269, 3812, 8.00, 14, 'A');
+VALUES(20111, 71269, 3812, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 160103, 5452, 5.00, 14, 'R');
+VALUES(20111, 160103, 5452, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 105099, 4614, 6.00, 14, 'R');
+VALUES(20111, 105099, 4614, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 94819, 276, 3.00, 14, 'R');
+VALUES(20111, 94819, 276, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 70003, 1043, 4.00, 14, 'R');
+VALUES(20111, 70003, 1043, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 125222, 5560, 4.00, 14, 'R');
+VALUES(20111, 125222, 5560, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 120062, 6210, 3.00, 14, 'R');
+VALUES(20111, 120062, 6210, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 71711, 4433, 8.00, 14, 'A');
+VALUES(20111, 71711, 4433, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 133112, 5517, 7.00, 14, 'A');
+VALUES(20111, 133112, 5517, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 117274, 6240, 8.00, 14, 'A');
+VALUES(20111, 117274, 6240, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 105057, 3824, 3.00, 14, 'R');
+VALUES(20111, 105057, 3824, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 80706, 333, 6.00, 14, 'R');
+VALUES(20111, 80706, 333, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 148647, 5135, 6.00, 14, 'R');
+VALUES(20111, 148647, 5135, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 105051, 1343, 4.00, 14, 'R');
+VALUES(20111, 105051, 1343, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 148353, 5101, 9.00, 14, 'A');
+VALUES(20111, 148353, 5101, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 138953, 4433, 5.00, 14, 'R');
+VALUES(20111, 138953, 4433, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 133647, 5139, 9.00, 14, 'A');
+VALUES(20111, 133647, 5139, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 72718, 3789, 8.00, 14, 'A');
+VALUES(20111, 72718, 3789, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 130359, 5494, 5.00, 14, 'R');
+VALUES(20111, 130359, 5494, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 84001, 3788, 6.00, 14, 'R');
+VALUES(20111, 84001, 3788, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 148601, 5140, 4.00, 14, 'R');
+VALUES(20111, 148601, 5140, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 72732, 3830, 9.00, 14, 'A');
+VALUES(20111, 72732, 3830, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 128273, 6305, 6.00, 14, 'R');
+VALUES(20111, 128273, 6305, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 70960, 3829, 6.00, 14, 'R');
+VALUES(20111, 70960, 3829, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 148398, 5105, 8.00, 14, 'A');
+VALUES(20111, 148398, 5105, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 127650, 4162, 4.00, 14, 'R');
+VALUES(20111, 127650, 4162, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 113874, 3823, 4.00, 14, 'R');
+VALUES(20111, 113874, 3823, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 86771, 3842, 2.00, 14, 'R');
+VALUES(20111, 86771, 3842, 2.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 105034, 3824, 5.00, 14, 'R');
+VALUES(20111, 105034, 3824, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 148435, 4164, 10.00, 14, 'A');
+VALUES(20111, 148435, 4164, 10.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 72990, 3828, 9.00, 14, 'A');
+VALUES(20111, 72990, 3828, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 105032, 3826, 2.00, 14, 'R');
+VALUES(20111, 105032, 3826, 2.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 120131, 301, 4.00, 14, 'R');
+VALUES(20111, 120131, 301, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 148593, 5135, 2.00, 14, 'R');
+VALUES(20111, 148593, 5135, 2.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 138840, 334, 2.00, 14, 'R');
+VALUES(20111, 138840, 334, 2.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 130135, 5493, 8.00, 14, 'A');
+VALUES(20111, 130135, 5493, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 122435, 6104, 2.00, 14, 'R');
+VALUES(20111, 122435, 6104, 2.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 125296, 4781, 5.00, 14, 'R');
+VALUES(20111, 125296, 4781, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 113600, 4246, 4.00, 14, 'R');
+VALUES(20111, 113600, 4246, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 133809, 4703, 7.00, 14, 'A');
+VALUES(20111, 133809, 4703, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 125502, 6234, 7.00, 14, 'A');
+VALUES(20111, 125502, 6234, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 133700, 4246, 9.00, 14, 'A');
+VALUES(20111, 133700, 4246, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 133722, 4246, 7.00, 14, 'A');
+VALUES(20111, 133722, 4246, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 120049, 3785, 5.00, 14, 'R');
+VALUES(20111, 120049, 3785, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 148588, 4702, 5.00, 14, 'R');
+VALUES(20111, 148588, 4702, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 114960, 6192, 6.00, 14, 'R');
+VALUES(20111, 114960, 6192, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 73446, 276, 9.00, 14, 'A');
+VALUES(20111, 73446, 276, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 155645, 5128, 5.00, 14, 'R');
+VALUES(20111, 155645, 5128, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 71136, 3834, 3.00, 14, 'R');
+VALUES(20111, 71136, 3834, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 130071, 5495, 9.00, 14, 'A');
+VALUES(20111, 130071, 5495, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 91319, 3813, 5.00, 14, 'R');
+VALUES(20111, 91319, 3813, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 148572, 5105, 3.00, 14, 'R');
+VALUES(20111, 148572, 5105, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 130068, 4703, 9.00, 14, 'A');
+VALUES(20111, 130068, 4703, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 138872, 4703, 5.00, 14, 'R');
+VALUES(20111, 138872, 4703, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 113485, 5764, 3.00, 14, 'R');
+VALUES(20111, 113485, 5764, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 139664, 5495, 3.00, 14, 'R');
+VALUES(20111, 139664, 5495, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 94774, 3830, 6.00, 14, 'R');
+VALUES(20111, 94774, 3830, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 138891, 4703, 4.00, 14, 'R');
+VALUES(20111, 138891, 4703, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 105003, 334, 6.00, 14, 'R');
+VALUES(20111, 105003, 334, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 73918, 6235, 10.00, 14, 'A');
+VALUES(20111, 73918, 6235, 10.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 130063, 5493, 9.00, 14, 'A');
+VALUES(20111, 130063, 5493, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 125334, 4780, 4.00, 14, 'R');
+VALUES(20111, 125334, 4780, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 120037, 3788, 3.00, 14, 'R');
+VALUES(20111, 120037, 3788, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 71220, 3824, 2.00, 14, 'R');
+VALUES(20111, 71220, 3824, 2.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 117177, 6240, 7.00, 14, 'A');
+VALUES(20111, 117177, 6240, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 137772, 6234, 5.00, 14, 'R');
+VALUES(20111, 137772, 6234, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 148523, 4164, 9.00, 14, 'A');
+VALUES(20111, 148523, 4164, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 113476, 333, 4.00, 14, 'R');
+VALUES(20111, 113476, 333, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 94766, 3833, 6.00, 14, 'R');
+VALUES(20111, 94766, 3833, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 148525, 4702, 8.00, 14, 'A');
+VALUES(20111, 148525, 4702, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 130061, 4703, 10.00, 14, 'A');
+VALUES(20111, 130061, 4703, 10.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 133641, 5454, 10.00, 14, 'A');
+VALUES(20111, 133641, 5454, 10.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 130056, 5492, 9.00, 14, 'A');
+VALUES(20111, 130056, 5492, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 125336, 5180, 2.00, 14, 'R');
+VALUES(20111, 125336, 5180, 2.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 113259, 5512, 2.00, 14, 'R');
+VALUES(20111, 113259, 5512, 2.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 155498, 5140, 5.00, 14, 'R');
+VALUES(20111, 155498, 5140, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 117038, 6238, 8.00, 14, 'A');
+VALUES(20111, 117038, 6238, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 113266, 6090, 6.00, 14, 'R');
+VALUES(20112, 113266, 6090, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 75795, 3834, 10.00, 14, 'A');
+VALUES(20112, 75795, 3834, 10.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 130412, 5495, 6.00, 14, 'R');
+VALUES(20112, 130412, 5495, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 125355, 6091, 4.00, 14, 'R');
+VALUES(20112, 125355, 6091, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 125383, 5471, 2.00, 14, 'R');
+VALUES(20112, 125383, 5471, 2.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 104923, 6305, 6.00, 14, 'R');
+VALUES(20112, 104923, 6305, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 127573, 6234, 4.00, 14, 'R');
+VALUES(20112, 127573, 6234, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 94389, 3839, 7.00, 14, 'A');
+VALUES(20112, 94389, 3839, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 117127, 5494, 7.00, 14, 'A');
+VALUES(20112, 117127, 5494, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 76905, 302, 10.00, 14, 'A');
+VALUES(20112, 76905, 302, 10.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 128400, 5494, 3.00, 14, 'R');
+VALUES(20112, 128400, 5494, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 130020, 5492, 9.00, 14, 'A');
+VALUES(20112, 130020, 5492, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 115570, 6192, 4.00, 14, 'R');
+VALUES(20112, 115570, 6192, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 113321, 338, 5.00, 14, 'R');
+VALUES(20112, 113321, 338, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 113862, 2191, 4.00, 14, 'R');
+VALUES(20112, 113862, 2191, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 71222, 3824, 6.00, 14, 'R');
+VALUES(20112, 71222, 3824, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 113269, 2191, 3.00, 14, 'R');
+VALUES(20112, 113269, 2191, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 104919, 1732, 6.00, 14, 'R');
+VALUES(20112, 104919, 1732, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 79317, 3832, 2.00, 14, 'R');
+VALUES(20112, 79317, 3832, 2.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 133831, 5514, 8.00, 14, 'A');
+VALUES(20112, 133831, 5514, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 115014, 302, 5.00, 14, 'R');
+VALUES(20112, 115014, 302, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 135521, 5362, 3.00, 14, 'R');
+VALUES(20112, 135521, 5362, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 128405, 5140, 4.00, 14, 'R');
+VALUES(20112, 128405, 5140, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 95877, 3786, 10.00, 14, 'A');
+VALUES(20112, 95877, 3786, 10.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 96004, 3828, 9.00, 14, 'A');
+VALUES(20112, 96004, 3828, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 139692, 5972, 4.00, 14, 'R');
+VALUES(20112, 139692, 5972, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 125431, 4463, 5.00, 14, 'R');
+VALUES(20112, 125431, 4463, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 136123, 5468, 8.00, 14, 'A');
+VALUES(20112, 136123, 5468, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 96791, 3789, 10.00, 14, 'A');
+VALUES(20112, 96791, 3789, 10.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 139712, 4703, 5.00, 14, 'R');
+VALUES(20112, 139712, 4703, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 96871, 302, 10.00, 14, 'A');
+VALUES(20112, 96871, 302, 10.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 119694, 5494, 3.00, 14, 'R');
+VALUES(20112, 119694, 5494, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 143467, 5495, 7.00, 14, 'A');
+VALUES(20112, 143467, 5495, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 96902, 352, 10.00, 14, 'A');
+VALUES(20112, 96902, 352, 10.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 127469, 301, 3.00, 14, 'R');
+VALUES(20112, 127469, 301, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 155488, 3788, 6.00, 14, 'R');
+VALUES(20112, 155488, 3788, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 104866, 3826, 6.00, 14, 'R');
+VALUES(20112, 104866, 3826, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 130009, 5494, 9.00, 14, 'A');
+VALUES(20112, 130009, 5494, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 97156, 3831, 9.00, 14, 'A');
+VALUES(20112, 97156, 3831, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 71404, 3832, 2.00, 14, 'R');
+VALUES(20112, 71404, 3832, 2.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 97164, 3835, 8.00, 14, 'A');
+VALUES(20112, 97164, 3835, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 132684, 4703, 2.00, 14, 'R');
+VALUES(20112, 132684, 4703, 2.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 130414, 5493, 3.00, 14, 'R');
+VALUES(20112, 130414, 5493, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 135434, 5494, 6.00, 14, 'R');
+VALUES(20112, 135434, 5494, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 97208, 3834, 9.00, 14, 'A');
+VALUES(20112, 97208, 3834, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 104821, 3826, 3.00, 14, 'R');
+VALUES(20112, 104821, 3826, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 132697, 5362, 2.00, 14, 'R');
+VALUES(20112, 132697, 5362, 2.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 122422, 6237, 9.00, 14, 'A');
+VALUES(20112, 122422, 6237, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 142967, 5515, 7.00, 14, 'A');
+VALUES(20112, 142967, 5515, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 97443, 335, 10.00, 14, 'A');
+VALUES(20112, 97443, 335, 10.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 94445, 3829, 7.00, 14, 'A');
+VALUES(20112, 94445, 3829, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 79320, 3825, 3.00, 14, 'R');
+VALUES(20112, 79320, 3825, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 94450, 5472, 7.00, 14, 'A');
+VALUES(20112, 94450, 5472, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 122418, 6240, 2.00, 14, 'R');
+VALUES(20112, 122418, 6240, 2.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 94755, 1343, 4.00, 14, 'R');
+VALUES(20112, 94755, 1343, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 132736, 4703, 3.00, 14, 'R');
+VALUES(20112, 132736, 4703, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 104800, 3813, 3.00, 14, 'R');
+VALUES(20112, 104800, 3813, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 132754, 4703, 3.00, 14, 'R');
+VALUES(20112, 132754, 4703, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 130417, 4246, 4.00, 14, 'R');
+VALUES(20112, 130417, 4246, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 113289, 3866, 4.00, 14, 'R');
+VALUES(20112, 113289, 3866, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 92897, 3834, 4.00, 14, 'R');
+VALUES(20112, 92897, 3834, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 97545, 3824, 8.00, 14, 'A');
+VALUES(20112, 97545, 3824, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 114433, 3785, 5.00, 14, 'R');
+VALUES(20112, 114433, 3785, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 132794, 4246, 3.00, 14, 'R');
+VALUES(20112, 132794, 4246, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 97574, 273, 10.00, 14, 'A');
+VALUES(20112, 97574, 273, 10.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 71539, 299, 2.00, 14, 'R');
+VALUES(20112, 71539, 299, 2.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 97575, 5560, 9.00, 14, 'A');
+VALUES(20112, 97575, 5560, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 97577, 352, 9.00, 14, 'A');
+VALUES(20112, 97577, 352, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 136118, 4246, 9.00, 14, 'A');
+VALUES(20112, 136118, 4246, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 122333, 6305, 8.00, 14, 'A');
+VALUES(20112, 122333, 6305, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 149418, 5105, 4.00, 14, 'R');
+VALUES(20112, 149418, 5105, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 122634, 6234, 7.00, 14, 'A');
+VALUES(20112, 122634, 6234, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 78253, 4781, 5.00, 14, 'R');
+VALUES(20112, 78253, 4781, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 118500, 4463, 8.00, 14, 'A');
+VALUES(20112, 118500, 4463, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 146154, 5108, 10.00, 14, 'A');
+VALUES(20112, 146154, 5108, 10.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 149412, 5163, 4.00, 14, 'R');
+VALUES(20112, 149412, 5163, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 97589, 1343, 8.00, 14, 'A');
+VALUES(20112, 97589, 1343, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 72633, 2787, 6.00, 14, 'R');
+VALUES(20112, 72633, 2787, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 67468, 3826, 7.00, 14, 'A');
+VALUES(20112, 67468, 3826, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 97590, 301, 8.00, 14, 'A');
+VALUES(20112, 97590, 301, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 100669, 2774, 7.00, 14, 'A');
+VALUES(20112, 100669, 2774, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 112526, 2779, 2.00, 14, 'R');
+VALUES(20112, 112526, 2779, 2.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 122142, 4463, 10.00, 14, 'A');
+VALUES(20112, 122142, 4463, 10.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 133893, 5468, 8.00, 14, 'A');
+VALUES(20112, 133893, 5468, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 97634, 2774, 10.00, 14, 'A');
+VALUES(20112, 97634, 2774, 10.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 104071, 334, 5.00, 14, 'R');
+VALUES(20112, 104071, 334, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 117294, 6305, 10.00, 14, 'A');
+VALUES(20112, 117294, 6305, 10.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 97675, 6210, 8.00, 14, 'A');
+VALUES(20112, 97675, 6210, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 117289, 4781, 7.00, 14, 'A');
+VALUES(20112, 117289, 4781, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 104014, 3833, 3.00, 14, 'R');
+VALUES(20112, 104014, 3833, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 131972, 5454, 8.00, 14, 'A');
+VALUES(20112, 131972, 5454, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 135337, 5497, 6.00, 14, 'R');
+VALUES(20112, 135337, 5497, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 97838, 5514, 8.00, 14, 'A');
+VALUES(20112, 97838, 5514, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 98091, 3834, 10.00, 14, 'A');
+VALUES(20112, 98091, 3834, 10.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 135292, 338, 6.00, 14, 'R');
+VALUES(20112, 135292, 338, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 132872, 5515, 6.00, 14, 'R');
+VALUES(20112, 132872, 5515, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 84098, 3842, 7.00, 14, 'A');
+VALUES(20112, 84098, 3842, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 125251, 4166, 7.00, 14, 'A');
+VALUES(20112, 125251, 4166, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 121912, 5494, 9.00, 14, 'A');
+VALUES(20112, 121912, 5494, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 118532, 4781, 9.00, 14, 'A');
+VALUES(20112, 118532, 4781, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 125201, 4781, 7.00, 14, 'A');
+VALUES(20112, 125201, 4781, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 146562, 5128, 10.00, 14, 'A');
+VALUES(20112, 146562, 5128, 10.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 135148, 5101, 6.00, 14, 'R');
+VALUES(20112, 135148, 5101, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 106174, 302, 8.00, 14, 'A');
+VALUES(20112, 106174, 302, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 92949, 3609, 4.00, 14, 'R');
+VALUES(20112, 92949, 3609, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 121815, 6101, 9.00, 14, 'A');
+VALUES(20112, 121815, 6101, 9.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 102519, 3828, 7.00, 14, 'A');
+VALUES(20112, 102519, 3828, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 118651, 5982, 10.00, 14, 'A');
+VALUES(20112, 118651, 5982, 10.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 132974, 5517, 5.00, 14, 'R');
+VALUES(20112, 132974, 5517, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 132978, 5514, 4.00, 14, 'R');
+VALUES(20112, 132978, 5514, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 90794, 5493, 2.00, 14, 'R');
+VALUES(20112, 90794, 5493, 2.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 98358, 3785, 8.00, 14, 'A');
+VALUES(20112, 98358, 3785, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 103625, 3829, 4.00, 14, 'R');
+VALUES(20112, 103625, 3829, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 119412, 6075, 4.00, 14, 'R');
+VALUES(20112, 119412, 6075, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 98365, 3787, 8.00, 14, 'A');
+VALUES(20112, 98365, 3787, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 132980, 5512, 4.00, 14, 'R');
+VALUES(20112, 132980, 5512, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 127388, 6235, 6.00, 14, 'R');
+VALUES(20112, 127388, 6235, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 98434, 3838, 8.00, 14, 'A');
+VALUES(20112, 98434, 3838, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 73224, 5493, 5.00, 14, 'R');
+VALUES(20112, 73224, 5493, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 87045, 273, 2.00, 14, 'R');
+VALUES(20112, 87045, 273, 2.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 115194, 3828, 5.00, 14, 'R');
+VALUES(20112, 115194, 3828, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 125160, 813, 7.00, 14, 'A');
+VALUES(20112, 125160, 813, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 135115, 5492, 5.00, 14, 'R');
+VALUES(20112, 135115, 5492, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 135970, 5453, 10.00, 14, 'A');
+VALUES(20112, 135970, 5453, 10.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 155484, 5495, 3.00, 14, 'R');
+VALUES(20112, 155484, 5495, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 132984, 5517, 5.00, 14, 'R');
+VALUES(20112, 132984, 5517, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 94734, 352, 2.00, 14, 'R');
+VALUES(20112, 94734, 352, 2.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 87055, 3825, 5.00, 14, 'R');
+VALUES(20112, 87055, 3825, 5.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 103590, 6237, 3.00, 14, 'R');
+VALUES(20112, 103590, 6237, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 106951, 6090, 8.00, 14, 'A');
+VALUES(20112, 106951, 6090, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 103584, 6236, 4.00, 14, 'R');
+VALUES(20112, 103584, 6236, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 132987, 4997, 4.00, 14, 'R');
+VALUES(20112, 132987, 4997, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 87058, 3789, 2.00, 14, 'R');
+VALUES(20112, 87058, 3789, 2.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 135071, 5492, 4.00, 14, 'R');
+VALUES(20112, 135071, 5492, 4.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 127292, 3742, 6.00, 14, 'R');
+VALUES(20112, 127292, 3742, 6.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 125151, 5469, 8.00, 14, 'A');
+VALUES(20112, 125151, 5469, 8.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 94698, 3836, 7.00, 14, 'A');
+VALUES(20112, 94698, 3836, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 155263, 5135, 3.00, 14, 'R');
+VALUES(20112, 155263, 5135, 3.00, 14, 'R');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 94712, 5131, 7.00, 14, 'A');
+VALUES(20112, 94712, 5131, 7.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
-VALUES(20113, 98587, 3830, 10.00, 14, 'A');
+VALUES(20112, 98587, 3830, 10.00, 14, 'A');
 INSERT INTO matriculas
 (semestre, mat_alu, cod_disc, nota, faltas, status)
 VALUES(20113, 134096, 5495, 9.00, 14, 'A');

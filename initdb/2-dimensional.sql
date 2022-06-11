@@ -20,7 +20,9 @@ CREATE TABLE IF NOT EXISTS dm_cursos (
 
 CREATE TABLE IF NOT EXISTS dm_tempo (
         id_tempo varchar NOT NULL PRIMARY KEY,
-        semestre varchar NOT NULL
+        semestre int NOT NULL,
+        ano date NOT NULL,
+        semestre_str varchar NOT NULL
 );
 
 CREATE TABLE IF NOT EXISTS ft_reprovacao_cotas (

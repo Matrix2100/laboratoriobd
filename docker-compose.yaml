@@ -1,9 +1,9 @@
 version: "3.8"
 
 services:
-  operacional:
+  database:
     image: postgres
-    container_name: operacional
+    container_name: database
     restart: on-failure
     ports:
       - 5433:5432
